@@ -1,2 +1,2 @@
 # donaciones
-código de donaciones web
+código de formulario donantes
